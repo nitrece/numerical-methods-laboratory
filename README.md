@@ -26,3 +26,5 @@ Getting roots:
 Integration:
 - [Rectangular Integration](https://github.com/cppf/rectangular-integration)
 - [Trapezoidal Integration](https://github.com/cppf/trapezoidal-integration)
+
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/numerical-methods-laboratory)
